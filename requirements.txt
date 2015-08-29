@@ -1,0 +1,6 @@
+flask
+gunicorn
+wolframalpha
+beautifulsoup4
+requests
+textblob
